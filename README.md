@@ -1,0 +1,1 @@
+Simple program that loops over a string and prints its characters. Done for fun and to better learn assembly.
